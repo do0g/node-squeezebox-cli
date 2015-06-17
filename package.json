@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/do0g/node-squeezebox-cli/issues"
   },
-  "homepage": "https://github.com/do0g/node-squeezebox-cli#readme"
+  "homepage": "https://github.com/do0g/node-squeezebox-cli#readme",
+  "devDependencies": {
+    "intern": "^2.2.2"
+  }
 }
