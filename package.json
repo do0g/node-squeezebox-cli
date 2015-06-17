@@ -1,0 +1,24 @@
+{
+  "name": "node-squeezebox-cli",
+  "version": "0.0.1",
+  "description": "Squeezebox control for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "intern-runner config=tests/intern"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/do0g/node-squeezebox-cli.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Squeezebox",
+    "CLI"
+  ],
+  "author": "Doug Hardy",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/do0g/node-squeezebox-cli/issues"
+  },
+  "homepage": "https://github.com/do0g/node-squeezebox-cli#readme"
+}
